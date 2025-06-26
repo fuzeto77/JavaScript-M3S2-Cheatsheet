@@ -24,7 +24,7 @@
    - [Prototipos](#-prototipos)
    - [Clases ES6](#-clases-es6)
    - [Modularidad](#-modularidad-en-javascript)
-5. [📋 Entrenamiento Semana 2](#-training-s2-requisitos-para-entregar)
+5. [📋 TRAINING S2](#-training-s2-requisitos-para-entregar)
    - [Requisitos Técnicos](#-requisitos-técnicos-obligatorios)
    - [Criterios de Evaluación](#-criterios-de-evaluación-100-puntos-totales)
    - [Timeline](#-timeline-sugerido-4-horas)
